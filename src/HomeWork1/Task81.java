@@ -10,7 +10,7 @@ public class Task81 {
         String a = "Это число простое";
         for (int i = 2; i <= Math.sqrt(numb); i++) {
             if (numb % i == 0) {
-                a = "Это число не простое";
+                a = "Это число не простое!";
             }
         }
         System.out.println(a);
