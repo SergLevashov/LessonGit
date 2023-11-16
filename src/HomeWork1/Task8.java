@@ -20,8 +20,4 @@ public class Task8 {
         return true;
     }
 }
-
-
-
-
-
+// новые изменния для коммита
